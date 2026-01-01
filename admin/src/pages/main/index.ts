@@ -1,0 +1,9 @@
+export { default as Home } from "./home";
+export { default as MyBets } from "./my-bets";
+export { default as Profile } from "./profile";
+export { default as Wallet } from "./wallet";
+export { default as Transactions } from "./transactions";
+export { default as Users } from "./users";
+export { default as UserDetail } from "./user-detail";
+export { default as WithdrawalRequests } from "./withdrawal-requests";
+export { default as Matches } from "./matches";
